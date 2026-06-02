@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sistema Inmbiliario",
+    "descripcion": "Sistema web desarrollado con ASP.NET Core y SQL Server para la gestion de la inmobiliaria Grupo Condado",
+    "imagen": "/images/Sistema Inmobiliario.png",
+    "tecnologias": ["HTML", "CSS", "JavaScript","SQL Server"],
+    "link": " "
+  },
+  {
+    "id": 2,
+    "nombre": "CV Portafolio React",
+    "descripcion": "Aplicación SPA desarrollada con React Router y Booststrap",
+    "imagen": "images/CV-Portafolio.png",
+    "tecnologias": ["React", "JavaScript", "Bootstrap"],
+    "link": " "
+  },
+  {
+    "id": 3,
+    "nombre": "Pokedex React",
+    "descripcion": "Aplicación de React mediante el uso de componentes, manejo de estados, eventos, props y consumo de API",
+    "imagen": "images/Pokedex React.png",
+    "tecnologias": ["React", "JavaScript", "Bootstrap"],
+    "link": " "
+  }
+  
+
+]
