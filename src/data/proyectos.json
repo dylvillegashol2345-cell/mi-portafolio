@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "nombre": "Sistema Inmbiliario",
+    "nombre": "Sistema Inmobiliario",
     "descripcion": "Sistema web desarrollado con ASP.NET Core y SQL Server para la gestion de la inmobiliaria Grupo Condado",
-    "imagen": "/images/Sistema.png",
+    "imagen": "images/Sistema.png",
     "tecnologias": ["HTML", "CSS", "JavaScript","SQL Server"],
     "link": " "
   },
